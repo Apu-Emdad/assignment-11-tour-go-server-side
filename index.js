@@ -1,5 +1,4 @@
-// tour_bee_admin
-// Czh2VlVmUekVkfH4
+
 const express = require("express");
 const { MongoClient } = require("mongodb");
 require("dotenv").config();
